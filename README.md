@@ -8,6 +8,7 @@ https://drive.google.com/file/d/114sbxMmCOgyAg_z405gs3Ip626Ewb_5w/view?usp=shari
 Old release
 
 3.0→ https://drive.google.com/file/d/1Iqp0VchW9PXJN5CvEb4UaSzS_AbT1wI9/view?usp=sharing
+
 ---
 日本語版はもっとスクロールしてください。
 
@@ -57,7 +58,7 @@ Search results will be displayed. 4.
 | **Search functionality** | Simple and optimized | Rich | **Browsing functionality** | Minimal | Yes |
 | **Lightness** | ◎ Lightweight | △ Relatively heavy |
 **History saving** | ×It's impossible. | △ Relatively heavy |
-**Simplicity of UI** - Search and browse only - - Complex and multifunctional
+**Simplicity of UI** | ◎ Simple | △ Relatively heavy |
 
 **Simplicity of UI** - **Search and browse only
 
