@@ -88,7 +88,6 @@ A. No, there is not. Use another browser if you need it!
 **Q. Why did you make this browser? **  
 A. Simply because I wanted to make it.
 
-** Q. Why did you make this browser?
 ---
 
 
