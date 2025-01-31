@@ -57,8 +57,8 @@ Search results will be displayed. 4.
 | **Search function** | ◎Simple and optimized | ◎Enriched |
 | **Search functionality** | Simple and optimized | Rich | **Browsing functionality** | Minimal | Yes |
 | **Lightness** | ◎ Lightweight | △ Relatively heavy |
-**History saving** | ×It's impossible. | △ Relatively heavy |
-**Simplicity of UI** | ◎ Simple | △ Relatively heavy |
+**History saving** | ×It's impossible. | △ NO |
+**Simplicity of UI** | ◎ Simple | △ NO |
 
 **Simplicity of UI** - **Search and browse only
 
